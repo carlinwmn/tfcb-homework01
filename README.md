@@ -1,5 +1,7 @@
 # Homework #1: Git, GitHub, Markdown, and file organization
 
+This repository contains source code, data, and images from an original `messy-project-directory`. Below are descriptions of the contents of the resulting tidied file folders.
+
 ## Code
 
 This folder contains source code files for FormicID, a computational tool to identify ant species.
@@ -22,9 +24,25 @@ Survey data including observations on:
 * Weight (g)
 * Date recorded
 
+
 ## Images
 
 Example images of ants:
 
+* _Rhytidoponera metallica_
+  
+![](./images/casent0172345_Rhytidoponera_metallica.jpg)
+
 * _Camponotus darwinii_
-  ![alt text](https://github.com/carlinwmn/tfcb-homework01/images/casent.   -  0191696 Camponotus darwinii .jpg)
+
+  ![](./images/casent0191696_Camponotus_darwinii.jpg)
+  
+* _Anthomyrmex ferox_
+  
+  ![](./images/casent0901788_p_1_high_Acanthomyrmex_ferox.jpg)
+  
+* _Cataglyphis fortis_
+  
+  ![](./images/casent0906296_p_1_high_Cataglyphis_fortis.jpg)
+  
+  
